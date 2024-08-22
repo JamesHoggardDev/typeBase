@@ -37,7 +37,7 @@ npm run test
 
 * Website: 	
 * Github: [@JamesHoggardDev](https://github.com/JamesHoggardDev)
-* LinkedIn: [@James Hoggard](https://linkedin.com/in/James Hoggard)
+* LinkedIn: [@James Hoggard]([https://linkedin.com/in/James Hoggard](https://www.linkedin.com/in/james-hoggard/))
 
 ## Show your support
 
